@@ -33,7 +33,6 @@ p {
 	margin: 0;
 	padding-top: 5px;
 	font-family: "Comfortaa", cursive;
-	/* font-family: 'Raleway', sans-serif; */
 }
 
 .postcard-header img {
@@ -75,10 +74,12 @@ p {
 	background-color: rgb(148, 148, 148);
 	padding: 5px 10px;
 	border: 0;
+	font-family: inherit;
 }
 
 .postcard-footer button:hover {
 	background-color: rgb(187, 187, 187);
+	cursor: pointer;
 }
 
 .postcard-footer button:active {
