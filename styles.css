@@ -64,6 +64,7 @@ p {
 	border-bottom: 1px solid gray;
 	font-family: inherit;
 	font-size: inherit;
+	margin-bottom: 1px;
 }
 
 .postcard-footer {
