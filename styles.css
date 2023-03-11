@@ -67,6 +67,11 @@ p {
 	margin-bottom: 1px;
 }
 
+.body-right input:focus-visible {
+	outline: 0;
+	color: inherit;
+}
+
 .postcard-footer {
 	text-align: center;
 }
